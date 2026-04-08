@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>2weeks</title>
+</head>
+<body>
+    <div class="card-grid">
+        <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/3f7d3Vg3X1Q_dSDDia3VxlIBMRS4m8qyCOFX5Z3axKg1UJLcRPIjmrovDxnZ-9K3Ig3hLdm1n3PwPKq_USXNKg.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>Gen.G Esports</h1>
+                <h2>LCK 컵 5전 전승 및 압도적인 펜타킬 기록(20회)을 바탕으로 현재 리그를 지배하며, 안정적인 체급과 완성형 경기력을 보여주는 명실상부한 최상위권 프로 e스포츠 팀</h2>
+            </div>
+        </div>
+        <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/zQaIAA550JkDh5toVjIdL-88-GyvITxVDxbyVnCB5GsqIs7IpNIZdrN0q0L9GxAamGzJruTLy_zYWOUX-bDAKqULDIXOzEi2IHwnQoS8fH7a9dqFB5j2ooHBc-nfOx3bvmUpRiQtaI2Hc96NzeL7Hw.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>T1</h1>
+                <h2>T1은 페이커(이상혁)를 중심으로 롤드컵 최다 우승(4회) 및 2025년 흑자 전환을 달성하며, 전 세계 LoL 이스포츠 역사상 가장 강력한 커리어와 인기를 보유한 'Team 1st' 명문 프로게임단</h2>
+            </div>
+        </div>
+         <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/ZONUIi-uoGjUl8G9W1X-OcZQWP648y_OLkqyM0AAm852hc3DnSXnLdyTIp7XrveY_VxjKHOVFVs8cWAhqwCZveKF47xbWW15Ra2gMWn77rT_MsRZu-3fKYFPQX1fLONVEuR0hjP8BpmvRZQ_yvb1wA.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>Dplus Kia</h1>
+                <h2>"2020 월즈 우승의 영광을 이어가며, 끊임없는 리빌딩과 도전으로 LCK 정상 탈환을 노리는 명문 e스포츠 구단"</h2>
+            </div>
+        </div> <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/bSDOe7HS_f2sLHF1UJXEfEdQomaDQq6iprPL1oEy2WH7D04ppOf9pl-uu-XpuvrTQ1y0tEz7SIPp9I8J_LDu_tdNrmtPrNYhVI0_vGfYsNlKbKtmhx_RjP9kA2SSi7im8IOopD-sNb5MQGoKRVhbkA.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>키움 DRX</h1>
+                <h2>"2022년 롤드컵에서 4번 시드라는 최약체 평가를 뒤집고 전승 우승(중꺾마)이라는 소년만화 서사를 완성한 LCK의 근본 있는 이스포츠 명가" </h2>
+            </div>
+        </div> <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/_6mKFi2FMjLdZl26IVEGzZr5R5tjHXPljGr76Oay79LWPKK7DGslpMfIatSkAkfS2XnDkMO4Dh2IMTuBx55bs9fMhB0vCFIfT4qV7DLmRujLn0Vd5HFInkhVl1vRY6kWUc3elqEfenEh-ljZ77Zr1A.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>BNK FEARX</h1>
+                <h2>BNK 피어엑스(BNK FearX)는 샌드박스 네트워크가 운영하는 프로게임단으로, '박치기 공룡'으로 불릴 만큼 화끈한 공격력과 호전적인 교전을 특징으로 하며 2025년 기준 패자조에서 최종 우승까지 달성하는 드라마를 쓴 LCK 리그 오브 레전드 팀</h2>
+            </div>
+        </div> <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/6TJ_vxM4n8GiBV2wXwGeZ9hHDP_ow5hKfDMPsh3meeztZSqvZD4ewNidnZA5SPaa5ss5qOcEVCwkwV5qv9wTo0JiLKX_tU08RNLohOGL3B5KInxfDWSwk0TBXFNWNXbHskMCWILf--N1lT2117QQ3w.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>농심 레드포스</h1>
+                <h2> 농심 레드포스는 탄탄한 주도권과 화끈한 전투력을 바탕으로 성장한, 2026 LCK CL 킥오프 우승 및 LCK 1주차 1위를 기록한 신흥 강자</h2>
+            </div>
+        </div> <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/t-P_0FHyfJEUk95A9W07f-ZDoaE8KJSeglV6LM6t_qdz7wwN5_dPwrD8YapaCSt6vK934DW8eKi25QRzWHqIwQ.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>디엔 수퍼스</h1>
+                <h2>LCK 컵에서 저평가를 뒤엎고 예상외의 경기력으로 플레이오프에 진출하며, 끈끈한 팀워크와 반전 매력을 보여준 언더독(Underdog)의 돌풍,이전 구단명 광동프릭스</h2>
+            </div>
+        </div> <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/6fikd0qgQ2VWExfPbHsFhAAaVjVKQvVu5x3MNet86_cR-lH8RvmrHGXvO6Q1XqiATxfldhyNPHFRc5mwq5EDC9oyOt64Af_TkOUQ5pVBYnSJmojFVF0-9aVauUzTV8v042yLzgxD6DJcC_r7lgRsDw.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>한화 이스포츠</h1>
+                <h2>한화생명이 운영하는 프로 게임단으로, 2024년 '피넛' 한왕호 등 베테랑을 영입하여 LCK 서머 준우승 및 롤드컵 진출을 달성한 상위권 팀입니다. 팀 워크와 운영을 강점으로 하며, 2026년에도 밴픽 및 팀 합을 보완하여 우승을 목표로 도전 중인 LCK 대표 명문 팀</h2>
+            </div>
+        </div> <div class="card">
+            <div class="top">
+                <div class="react">
+                    <a href="https://namu.wiki/w/Gen.G%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C" target="_blank" rel="noopener" class="item">React</a>
+                </div>
+                <img src="https://i.namu.wiki/i/RloxsAYQcS8yo_TpSyJYJdhVOrG9wOAUcyYli6hyEgx7Wy9QGOUWg9p3Pb2Y1Dgm9S8hngUH2gU7aLqNhjCJt3kOdkpMAiCs54WW0oP-s5G1g7G7TJvKcfGWW09zFU3tiXCD6mp3f8VSh4_KP9MjSQ.svg" alt="프로필">
+            </div>
+            <div class="bottom">
+                <h1>한진 브리온</h1>
+                <h2>2026 시즌부터 ㈜한진이 네이밍 스폰서로 참여하는 LCK(리그 오브 레전드 챔피언스 코리아) 팀입니다. 글로벌 물류 기업 한진과의 협약을 통해 브랜드 가치를 높이고 있으며, 2026 LCK 스프링 시즌 로스터에서 미드라이너 '로키' 이상민 영입 등을 통해 전력 강화와 플레이오프 진출을 목표로 하고 있습니다.</h2>
+            </div>
+        </div> 
+                
+    </div>
+    <style>
+        .card-grid{
+            display:grid;
+            grid-template-columns: repeat(1,1fr);
+            gap: 24px;
+            justify-items: center;
+        }
+        .card{
+            display: flex;
+            flex-direction: column;
+            position:relative;
+            height: 400px;
+            width: 300px;
+            border-radius: 16px;
+            background: #ffffff;
+            border: 1px solid #e5e7eb;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+        }
+        .top img{
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+        .top{
+            overflow: hidden;
+            flex:1;
+            border: 1px solid #e5e7eb;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+        }
+        .bottom{
+            flex:1;
+        }
+        .react{
+            position:absolute;
+            top:10px;
+            right: 10px;
+            display: flex;
+            justify-content: flex-end;
+        }
+        .item{
+            display: inline-block;
+            background-color:rgb(226, 226, 226);
+            border-radius: 20px;
+            padding : 3px 15px;
+            text-decoration: none;
+            color: black;
+        }
+        .bottom h1{
+            padding-top: 10px;
+            margin-top: 0px;
+            margin-bottom: 6px;
+            margin-left:16px;
+        }
+        .bottom h2{
+                font-size: 14px;
+                padding-top: 0px;
+                margin-top: 9px;
+                margin-left:10px;
+            }
+        @media(min-width:768px){
+            .card-grid{
+                grid-template-columns: repeat(2,1fr);
+                
+            }
+        }
+        @media(min-width:1024px){
+            .card-grid{
+                grid-template-columns: repeat(3,1fr);
+            }
+        }
+    </style>
+</body>
+</html>
